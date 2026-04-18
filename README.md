@@ -11,7 +11,7 @@ I enjoy working across the backend and infrastructure layer, building things wit
 
 ### Projects
 
-**[MMB](https://github.com/petrosbal/mmb)** — `C` `Python` `Docker` `k3s` `WASM`
+**[krater](https://github.com/petrosbal/krater)** — `C` `Python` `Docker` `k3s` `WASM`
 Benchmarking framework that compares container runtime performance (native, static, WASM) on a k3s cluster. Python orchestration with cgroup monitoring, YAML-driven configuration, and checkpoint/resume support.
 
 **[Caveo](https://github.com/petrosbal/caveo)** — `Go` `Docker` `Chi`
