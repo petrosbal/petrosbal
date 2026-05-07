@@ -22,6 +22,3 @@ Reading tracker that computes analytics from session data. JWT auth, Google Book
 
 **[MpGrab](https://github.com/petrosbal/mpgrab)** — `Rust` `TypeScript` `Tauri v2`
 Desktop media downloader with a Rust backend and React frontend. CI/CD with GitHub Actions, Conventional Commits, and 20+ unit tests.
-
-**[Armada Patrols](https://github.com/Armada-Patrols/game)** — `Java 17` `Swing` `SQLite`
-Battleship game with AI opponents, three difficulty tiers, and bilingual support. Led a 15-person university team organized into four sub-units.
