@@ -17,7 +17,7 @@ Benchmarking framework that compares container runtime performance (native, stat
 **[Caveo](https://github.com/petrosbal/caveo)** — `Go` `Docker` `Chi`
 Stateless microservice for Argon2id password hashing and verification. OWASP-tuned parameters, distroless Docker deployment, and table-driven tests covering edge cases.
 
-**[Raffy](https://github.com/petrosbal/raffy)** — `Java 21` `Spring Boot` `MariaDB` `React`
+**[Raffy](https://github.com/petrosbal/raffy)** — `Java 21` `Spring Boot` `PostgreSQL` `React`
 Reading tracker that computes analytics from session data. JWT auth, Google Books API integration, and an insights endpoint that pulls five metrics from two queries.
 
 **[MpGrab](https://github.com/petrosbal/mpgrab)** — `Rust` `TypeScript` `Tauri v2`
