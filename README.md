@@ -19,7 +19,7 @@ Automated Kubernetes benchmarking framework comparing WebAssembly and native Lin
 > *This repo was for my BSc thesis, graded 10/10.*
 
 **[NN](https://github.com/petrosbal/neural-networks-coursework) / [ML](https://github.com/petrosbal/machine-learning-coursework)** - `Python` `Keras` `scikit-learn` `SHAP`
-- An RNN for time-series energy disaggregation (NILM)
+- An RNN for time-series energy disaggregation of household appliances (NILM)
 - a DNN vs CNN comparison on image classification with transfer learning and significance testing
 - an 8-model classification pipeline for bankruptcy prediction with Bayesian hyper-opt and class imbalance handling
 - a 4-model regression study on diabetes progression with SHAP explainability
@@ -31,7 +31,7 @@ Stateless Argon2id service that takes password hashing off application servers. 
 
 > *Started this project inspired by UoM's Cryptography course. The main idea was getting to know what a microservice needs to be production-grade.*
 
-**[Raffy](https://github.com/petrosbal/raffy)** - `Java 21` `Spring Boot 4` `PostgreSQL` `React 19` `TypeScript`
+**[Raffy](https://github.com/petrosbal/raffy)** - `Java 21` `Spring Boot` `PostgreSQL` `React` `TypeScript`
 Full-stack reading tracker that derives analytics based on the user's reading habits. Pace, momentum, streaks, genre fingerprint and predicted finish dates are all computed from raw session rows at request time. The schema is built around a user's own copy of a book rather than the book itself, which keeps user context implicit through the entire session layer. Books are added by searching the Google Books API, so that metadata comes pre-filled, rather than typed by hand.
 
 > *The interesting problem here was finding out what belongs in the DB and what should be derived on request.*
